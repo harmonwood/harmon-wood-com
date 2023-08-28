@@ -1,0 +1,10 @@
+---
+layout: page
+title: About
+---
+
+Welcome to my little corner of the internet
+
+
+You can checkout my tech primer [Harmon's Tech Primer](http://primer.harmonwood.com) if you would like.
+It is a docs site for the code snippets and cheat sheets I not use often enough to go hunt down or use so often I need a quick copy paste ;)
