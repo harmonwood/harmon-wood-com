@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Harmon</title>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2023-08-29T07:39:21-05:00</updated>
+ <id>http://0.0.0.0:4000</id>
+ <author>
+   <name>Harmon Wood</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Harmon Wood</title>
+   <link href="http://0.0.0.0:4000/2023/08/28/welcome/"/>
+   <updated>2023-08-28T00:00:00-05:00</updated>
+   <id>http://0.0.0.0:4000/2023/08/28/welcome</id>
+   <content type="html">&lt;p&gt;Welcome to my little corner of the internet&lt;/p&gt;
+
+&lt;p&gt;You can checkout my tech primer &lt;a href=&quot;http://primer.harmonwood.com&quot;&gt;Harmon’s Tech Primer&lt;/a&gt; if you would like.
+It is a docs site for the code snippets and cheat sheets I not use often enough to go hunt down or use so often I need a quick copy paste ;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
